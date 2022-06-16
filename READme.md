@@ -1,5 +1,5 @@
 
-Pastane ürün satış sitesi bootstrap ile tasarlandı.
+Pastane ürün satış sitesi bootstrap ile tasarlandı..
 
 
 ![p1](https://user-images.githubusercontent.com/101572852/174056577-5cb5e919-62a3-4a4b-a25e-11621d9d2bb1.PNG)
