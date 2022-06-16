@@ -1,0 +1,61 @@
+body {
+    background-color: #E9ECEF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center
+    
+    
+}
+
+.card{
+    background-color: #E9ECEF;
+}
+
+.display-4{
+    color: rgb(187, 7, 67);
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol>li{
+    list-style-position: inside;
+}
+
+img{
+    height: 300px;
+}
+
+span{
+
+font-weight: bold;
+
+}
+
+#ana-başlık{
+    color: rgb(187, 7, 67);
+    font-size: 32px;
+}
+
+.ikincibaslik{
+    color: rgb(0, 95, 190);
+    text-align: center;
+}
+
+.ücüncübaslik{
+    color:rgb(200, 10, 133)
+}
+
+#özel {
+    text-align: left
+}
+
+#büyükresim{
+    height: 400px;
+}
+
+.card-title{
+    color:rgb(200, 10, 133);
+    font-weight: bold;
+}
